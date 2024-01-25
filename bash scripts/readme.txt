@@ -1,0 +1,1 @@
+If you are studying Automotive Cybersecurity course with eng/Ahmed Abd El-Ghafar and you want to implement the scripts included in a linux environment, you will find this github repo usefull. I wrote all the 4 included scrips in bash and will add more if new ones come out. 
